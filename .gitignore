@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/public/osrs_map_tiles
 /.pnp
 .pnp.js
 

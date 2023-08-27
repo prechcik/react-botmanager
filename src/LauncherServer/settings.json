@@ -1,0 +1,16 @@
+{
+	"DB_USERNAME": "user",
+	"DB_PASSWORD": "password",
+
+	"MASTER_IP": "127.0.0.1",
+	"MASTER_PORT": 8800,
+
+	"LISTEN_PORT": 8805,
+	"LISTEN_IP": "0.0.0.0",
+
+	"db_host": "127.0.0.1",
+	"db_port": 3306,
+	"db_user": "user",
+	"db_pass": "password",
+	"db_db": "database"
+}
