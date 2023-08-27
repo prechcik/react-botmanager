@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+## React BotManager
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+BotManager is a simple React web application providing statistics collected by all of my public DreamBot scripts published on www.dreambot.org
+The DreamBot scripts are made in Java for Dreambot framework and include a module that collects playtime data from every session.
+All of usernames are encrypted before being sent to my servers to make sure that players identity remains hidden.
 
-## Available Scripts
+Current capabilities of the application:
+- Total statistics for all the scripts
+- Individual script statistics with user session details
+- Individual user statistics
+- Item prices are gathered by a separate script using RuneScape Wiki API ( https://oldschool.runescape.wiki/w/RuneScape:Real-time_Prices )
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![6](https://github.com/prechcik/react-botmanager/assets/8548224/c0fa1117-0a13-4847-bb76-4fee9f9dd30d)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![5](https://github.com/prechcik/react-botmanager/assets/8548224/88c8e213-2026-4ca2-9111-887c69e95328)
 
-### `npm test`
+![4](https://github.com/prechcik/react-botmanager/assets/8548224/e4fae52d-b9a0-4d2d-8f1c-08d04476b516)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![3](https://github.com/prechcik/react-botmanager/assets/8548224/d0595bf2-8c45-4d77-8ecd-33a8ee45b8fc)
 
-### `npm run build`
+![2](https://github.com/prechcik/react-botmanager/assets/8548224/dee356b0-88b0-4c7a-9412-5ef8a67fab66)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![1](https://github.com/prechcik/react-botmanager/assets/8548224/3676e417-fed9-4f98-a5e8-2bd4c984e3bf)
